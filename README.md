@@ -1,3 +1,3 @@
-# Timetabling-Using-Genetics-Algorithm
-A Timetabling Using Genetics Algorithm project done using Java 
+# Timetabling-Using-Genetics-Algorithm project done using Java 
+
 Scheduling remains one among the foremost difficult areas of research and study in computing. The University Course Timetabling downside (UCTP) formalizes the task of making a weekly course schedule for students and lecturers at a university. Manual programming of university timetables stays inefficient because the previous year timetable is employed whereas some courses remain on the timetable that are removed from the syllabus. as the number of courses and students increase the amount of rooms and lecturers don’t increase at an equivalent rate, and this creates a programming problem. Timetabling being an extremely affected combinatorial problem, this work can attempt to resolve this problem by applying Charles Darwin’s biological process technique referred to as Genetic rule. Genetic Algorithms are nature impressed metaheuristics used to solve search and optimization issues.
